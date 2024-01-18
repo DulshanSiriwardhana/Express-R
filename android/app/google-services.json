@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413219945927",
+    "project_id": "booking-3d2f6",
+    "storage_bucket": "booking-3d2f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413219945927:android:e27017f215679b9a8fede2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAo6AXJ5v-LpfDPXEnUIaYxW-gHp9BVIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
