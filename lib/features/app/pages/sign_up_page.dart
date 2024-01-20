@@ -35,6 +35,7 @@ class _SignUpPageState extends State<SignUpPage> {
       appBar: AppBar(
         automaticallyImplyLeading: false,
         title: Text("SignUp"),
+        backgroundColor: Color.fromARGB(255, 114, 203, 247),
       ),
       body: Center(
         child: Padding(
@@ -126,6 +127,7 @@ class _SignUpPageState extends State<SignUpPage> {
           ),
         ),
       ),
+      backgroundColor: Color.fromARGB(255, 182, 245, 206),
     );
   }
 

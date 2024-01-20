@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Firebase',
+      title: 'Express-R',
       routes: {
         '/': (context) => SplashScreen(
               child: LoginPage(),
